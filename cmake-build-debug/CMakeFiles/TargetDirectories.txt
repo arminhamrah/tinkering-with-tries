@@ -1,0 +1,5 @@
+/Users/arminhamrah/Downloads/ATCS/Trie_example_2022/cmake-build-debug/CMakeFiles/LexiconTest.dir
+/Users/arminhamrah/Downloads/ATCS/Trie_example_2022/cmake-build-debug/CMakeFiles/Boggle.dir
+/Users/arminhamrah/Downloads/ATCS/Trie_example_2022/cmake-build-debug/CMakeFiles/SpellCheck.dir
+/Users/arminhamrah/Downloads/ATCS/Trie_example_2022/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/arminhamrah/Downloads/ATCS/Trie_example_2022/cmake-build-debug/CMakeFiles/rebuild_cache.dir
